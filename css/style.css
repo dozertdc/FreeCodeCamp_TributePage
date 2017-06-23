@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Droid+Sans');
+
+body{
+  margin:50px;
+  background: black;
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 20px;
+}
+.thumbnail img {
+	height: 100%;
+	width: 100%;
+}
+
+.container {
+	padding: 10px;
+	background: grey;
+}
+main {
+	background: white;
+}
+
+
+.black {
+	background: black;
+	color: white;
+}
+a{
+	color: red;
+}
+#footer {
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.list {
+	font-size: 20px;
+}
